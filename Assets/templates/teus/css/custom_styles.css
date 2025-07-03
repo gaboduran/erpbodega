@@ -1,0 +1,15 @@
+.label-form {
+    font-size: small;
+    font-weight: normal;
+}
+
+label {
+    font-weight: normal !important;
+    font-family:"Calibri", sans-serif !important;
+    font-size:15px;
+    text-align:center;
+    margin:5px 0px;
+    float:left;
+    color: #8C8C8F; 
+    font-weight: bold !important;
+}

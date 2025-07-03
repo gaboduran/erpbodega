@@ -1,0 +1,49 @@
+body {
+    font-family: aboriginalsans;
+    font-size: 12px;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    padding: 5mm;
+}
+
+.header {
+    font-weight: bold;
+    font-size: 12.5px;
+    text-align: center;
+}
+
+.address {
+    font-size: 12.5px;
+}
+
+.line {
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    line-height: 0.1;
+}
+
+.transaction-info {
+    font-size: 12.5px;
+}
+
+.customer-info {
+    font-size: 12.5px;
+}
+
+.total {
+    font-weight: bold;
+}
+
+.footer {
+    font-weight: bold;
+    font-size: 12.5px;
+    text-align: center;
+}
+
+.container p {
+    margin: 0;
+}

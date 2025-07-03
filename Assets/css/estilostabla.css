@@ -1,0 +1,49 @@
+	.table > thead {
+    z-index: 1;
+    position: relative;
+  }
+
+  .tableFixHead {
+    overflow-y: auto;
+    height: 206px;
+  }
+  .tableFixHead thead th {
+    position: sticky;
+    top: 0;
+  }
+  .tableDetsalidaReserva {
+    overflow-y: auto;
+    height: 306px;
+  }
+  .tableDetsalidaReserva thead th {
+    position: sticky;
+    top: 0;
+  }
+
+
+  .table > thead {
+    z-index: 1;
+    position: relative;
+  }
+
+  .tblDetalleValRepara {
+    overflow-y: auto;
+    height: 406px;
+  }
+  .tblDetalleValRepara thead th {
+    position: sticky;
+    top: 0;
+  }
+  .tableFixHead {
+    overflow-y: auto;
+    height: 506;
+  }
+  .tableFixHead thead th {
+    position: sticky;
+    top: 0;
+  }
+  
+  .my-class-form-control-group{
+    display:flex;
+    align-items:Center;
+  }

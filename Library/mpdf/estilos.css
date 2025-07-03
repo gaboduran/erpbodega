@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #header {
+    background-color: #515151e2;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #header h1 {
+    margin: 0;
+    font-size: 20px;
+}
+  
+  #qr-code {
+    margin-top: 10px;
+  }
+  
+  #qr-code img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  #header-text {
+    margin-top: 20px;
+  }
+  
+  #header-text p {
+    margin: 0;
+    font-size: 14px;
+}
+  
+  #body {
+    padding: 20px;
+  }
+  
+  #logo img {
+    width: 100px;
+    height: auto;
+}
+  
+  #cita-info {
+    margin-top: 20px;
+  }
+  
+  #cita-info table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  #cita-info table td {
+    padding: 3px;
+    border: 1px solid #ccc;
+    font-size: 12px;
+}
+
+footer {
+  background-color: #515151e2;
+  color: #fff;
+  padding: 20px 0;
+}
+  
+  .footer-content {
+    max-width: 800px;
+  }
+  
+  .logo {
+    order: 1;
+  }
+  
+  .logo img {
+    width: 25px;
+    height: 25px;
+}
+.contact-info {
+  order: 2;
+  text-align: center;
+  margin-top: 2px;
+  font-size: 10px;
+}
+  
+  .contact-info p {
+    margin: 5px 0;
+  }
+  
+  .contact-info i {
+    margin-right: 10px;
+  }
+  
+  .footer-content .contact-info {
+    margin-top: 0;
+  }
