@@ -67,4 +67,8 @@ class loginModel extends Conexion
 			return $e->getMessage();
 		}
 	}
+
+	public static function prueba(){
+		echo 'seta';
+	}
 }
